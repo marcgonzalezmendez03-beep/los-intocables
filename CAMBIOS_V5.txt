@@ -1,0 +1,12 @@
+LOS INTOCABLES · HOME V5
+
+Cambios: portada editorial, CTA de navegación, banda de marca, estadísticas con jerarquía, forma de los últimos cinco partidos, responsive mejorado.
+Se conserva la API FC27, el panel admin y las fichas de jugadores.
+
+INSTALACIÓN RECOMENDADA
+1. Detén la web anterior (Ctrl+C).
+2. Copia templates/index.html, static/style.css y static/app.js desde esta versión a la carpeta de tu web actual, reemplazando.
+3. Si tu main.py actual ya funciona, NO lo sustituyas.
+4. Reinicia start_windows.bat y pulsa Ctrl+F5.
+
+Si quieres usar el ZIP como proyecto separado, copia .env y site.db (con servidor apagado) de tu web actual.

@@ -1,0 +1,6 @@
+RESTAURAR DATOS GENERALES FC 27
+
+Copia main.py, static/app.js y templates/index.html en tu proyecto actual, sustituyendo los archivos existentes.
+NO borres .env ni site.db.
+Reinicia start_windows.bat y pulsa Ctrl+F5 en el navegador.
+Esta version recupera get_club_overall_stats y los ultimos 10 partidos sin filtro de amistosos.
